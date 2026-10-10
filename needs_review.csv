@@ -1,0 +1,5 @@
+customer,product,qty,reason
+Pak Andi,-,-,"DUPLICATE message, skipped"
+Bu Rina,Gula Aren,2,"CORRECTION applied: qty 1 -> 2, please confirm"
+Fajar,-,-,"QUESTION: Menanyakan ketersediaan, mau 4 jika ada. Produk tidak ada di katalog."
+Mira,Kopi Toraja 250gr,1,"CORRECTION applied: qty 1 -> 1, please confirm"
